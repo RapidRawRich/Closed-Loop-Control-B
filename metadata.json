@@ -1,0 +1,6 @@
+{
+  "name": "ILM Nonlinear Control Systems - 3D Quiz & Simulator",
+  "description": "Interactive educational 3D visualizer and quiz simulator for Alberta Apprenticeship ILM Module 310305cB (Closed Loop Control - Nonlinear Loops).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
